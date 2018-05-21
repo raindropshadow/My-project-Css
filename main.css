@@ -1,0 +1,63 @@
+* {
+	margin:0;
+	padding:0;
+	border:0;
+}
+body{
+    background-color: rgb(189, 66, 50);
+    border: 5px solid rgb(231, 148, 110);
+    margin: 5%;
+}
+
+#container{
+    background-color: white;
+    padding: 5%;
+    overflow: auto;
+    font-family:Arial, Helvetica, sans-serif;
+}
+header{
+text-align: center;
+font-size: 2em;
+color: rgb(192, 6, 115);
+}
+h1{
+    font-family:Kaushan Script;
+}
+h3{
+    font-size: 30px;
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+padding: 15px;
+}
+
+.block{
+    float: left;
+    width: 46%;
+    border-top: 1px solid rgb(189, 66, 50);
+
+    padding: 8px;
+}
+.card{
+    font-family:Kaushan Script;
+    font-size: 20px;
+    color: rgb(192, 6, 115);
+    text-align: center;
+
+}
+a{
+    color: rgb(192, 6, 115);
+    font-weight: bold;
+
+}
+p{
+    padding: 15px;
+}
+#foot{
+    clear: both;
+}
+
+
